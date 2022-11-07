@@ -9,7 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\LOTR-SDK\LOTRSdk\LOTRSdk.csproj" />
     <ProjectReference Include="..\LOTR-SDK\LOTRSdk\LOTRSdk.csproj" />
   </ItemGroup>
 
