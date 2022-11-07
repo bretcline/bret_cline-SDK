@@ -2,7 +2,7 @@
 
 The NuGet package for this SDK is located at https://www.nuget.org/packages/LOTRSdk/1.0.1 
 
-The souce code for this SDK and associated projects is located at https://github.com/bretcline/LOTR-Client
+The souce code for this SDK and associated projects is located at https://github.com/bretcline/bret_cline-SDK/tree/main/LOTR-SDK/LOTRSdk
 
 The use of this SDK is fairly straight forwared but does require the use of an API Key from the-one-api.dev.
 
@@ -11,7 +11,7 @@ NuGet\Install-Package LOTRSdk -Version 1.0.1
 or via the .NET CLI
 dotnet add package LOTRSdk --version 1.0.1
 
-The SDK can be tested using the NUnit Test project located at https://github.com/bretcline/LOTR-Client/tree/master/LOTRSdk-Tests
+The SDK can be tested using the NUnit Test project located at https://github.com/bretcline/bret_cline-SDK/tree/main/LOTRSdk-Tests
 
 Some sample code is as follows:  
 
